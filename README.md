@@ -1,7 +1,6 @@
 First Demo Spring Boot Web App Homepage.
 
-![homepage.png](screen%2Fhomepage.png)
-
+![homepage.png](screen/homescreen.png)
 
 
 ### **What is Spring?**
